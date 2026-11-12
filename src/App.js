@@ -13,7 +13,7 @@ function App() {
   return (
     <>
     
-    <h1>Course Cards</h1>
+    <h1>Courses</h1>
     
       {courses.map((course) => (
         
